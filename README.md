@@ -1,14 +1,12 @@
 ## Olá! Eu sou o Emanoel Tunã SP
 
-📧  entre em contato:  emanoelt-una3@gmail.com
+📧  entre em contato:  emanoeltuna3@gmail.com
 
 📜Desenvolvedor de software Jr
 
-💻Hoje estudo logica de programação
+💻Hoje estudo java
 
-😀Pronome:ele/
-
-
+😀Pronome:ele/dele
 
 ## Oiii eu sou a Emanoel tunã SP, Desenvolvedor de software Jr!
 <div align="center">
