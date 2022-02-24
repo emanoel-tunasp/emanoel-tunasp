@@ -4,9 +4,11 @@
 
 📜Desenvolvedor de software Jr
 
-💻Hoje estudo java
+💻Hoje estudo logica de programação
 
 😀Pronome:ele/dele
+
+
 
 ## Oiii eu sou a Emanoel tunã SP, Desenvolvedor de software Jr!
 <div align="center">
@@ -21,7 +23,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="file:///C:/Users/55819/Downloads/download20220200184225.pdf" height="150" style="border-radius:50px;" src="file:///C:/Users/55819/Downloads/download20220200184225.pdf">
+  <img align="right" alt="file:///C:/Users/55819/Downloads/download20220200184225.pdf" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 ##
@@ -29,7 +31,4 @@
   <a href = "mailto:emanoeltuna3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/emanoel-tuna-40481b21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div
-     
-     
-     
      
