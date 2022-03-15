@@ -4,7 +4,7 @@
 
 📜Desenvolvedor de software Jr
 
-💻Hoje estudo logica de programação
+💻Hoje estudo  java
 
 😀Pronome:ele/dele
 
